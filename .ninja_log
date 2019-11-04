@@ -1,0 +1,8 @@
+# ninja log v5
+0	104	1572702058	CMakeFiles/MyStaticLib.dir/calculator.cpp.o	accb3528c4722640
+1	105	1572702058	CMakeFiles/StaticTest.dir/calculator.cpp.o	df5e890df23a5722
+105	161	1572702058	libMyStaticLib.a	68ca46d2811439bc
+161	239	1572702058	StaticTest	c86daeebd5e8148b
+1	68	1572702156	build.ninja	3b4fcdd633df4623
+0	58	1572702156	CMakeFiles/StaticTest.exe.dir/calculator.cpp.o	4abdceb0c8df0f57
+58	117	1572702156	StaticTest.exe	d3a34d6d5dceae6a

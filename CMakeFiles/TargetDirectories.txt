@@ -1,0 +1,4 @@
+/home/anton/Documents/AK/Lab4test/CMakeFiles/edit_cache.dir
+/home/anton/Documents/AK/Lab4test/CMakeFiles/MyStaticLib.dir
+/home/anton/Documents/AK/Lab4test/CMakeFiles/rebuild_cache.dir
+/home/anton/Documents/AK/Lab4test/CMakeFiles/StaticTest.exe.dir
